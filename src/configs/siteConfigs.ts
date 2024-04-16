@@ -7,7 +7,7 @@ export const siteConfigs = {
   titleShort: 'Next Blog',
   description:
     'Blog starter template with modern frontend technologies like Next.js, Tailwind CSS, Contentlayer, i18Next',
-  author: 'Tony Stark',
+  author: 'David Liu',
   credit: 'Stark Industries',
   email: 'stark@example.com',
   fqdn: fqdn,
